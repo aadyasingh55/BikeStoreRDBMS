@@ -1,5 +1,7 @@
 # BikeStoreRDBMS
  Bike store wants to analyze the sales performance over the past quarter to identify trends, popular products, and areas that require improvement. The management is particularly interested in understanding:
+ ![image](https://github.com/aadyasingh55/BikeStoreRDBMS/assets/76063220/d458ceff-cf3a-4072-a6e2-205632e1689f)
+
 Queries Overview:
 1. Customer Lifetime Value Analysis
 Identified customers who have made the most purchases and calculated their lifetime value. The query includes the total number of orders, lifetime value, and average order value for the top 10 customers.
